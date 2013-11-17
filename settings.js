@@ -11,7 +11,7 @@ exports.create = function() {
   var settings = {};
 
   var defaults = {
-    title: 'Services Status Dashboard',
+    title: 'ARES Infrastructure and Services Status Page',
     hostname: '127.0.0.1',
     port: 8080,
     client: {
